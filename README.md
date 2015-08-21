@@ -20,14 +20,14 @@ CloudMaker and [The Minecraft Of Things](http://minecraftofthings.tumblr.com) sp
 
 ###Wiki
 
-Read the [CloudMakerWiki here](https://github.com/Multiverse/Multiverse-Core/wiki/basics)
+Read the [CloudMakerWiki](https://github.com/cheapjack/CloudMaker/wiki) here
 
 ###Plugins
 
-Dynmap  [View the map](http://mc.fact.co.uk)
-Essentials
-Multi-Verse
-Printcraft
-ScriptCraft
-CanaryMod
+ * Dynmap  [View the map](http://mc.fact.co.uk)
+ * Essentials [wiki](wiki.mc-ess.net)
+ * Multi-Verse [wiki](https://github.com/Multiverse/Multiverse-Core/wiki/basics)
+ * Printcraft [Bukkit Plugin Page](http://dev.bukkit.org/bukkit-plugins/printbot/)
+ * ScriptCraft [wiki](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md)
+ * CanaryMod
 
