@@ -1,5 +1,5 @@
 # CloudMaker
-## FACT minecraft bukkit server for the Minecraft of Things
+## FACT minecraft bukkit server for the Minecraft of Things: Teaching and Engaging with IoT through game culture frameworks
 For Minecraft PC client version `1.7.9` running `Bukkit-1.7.2`
 
 ![CloudMaker](https://github.com/cheapjack/cheapjack.github.io/blob/master/tumblr_files/Cloudmaker.png)
