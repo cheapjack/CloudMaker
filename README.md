@@ -22,6 +22,8 @@ Find out more in the [project video here](https://vimeo.com/92258008)
 
 ###Research Outputs and Spin-Outs
 
+![rfcraftpi](https://cloud.githubusercontent.com/assets/128456/11501525/b5ac718a-982c-11e5-957e-e393b6b7c2ae.png)
+
 CloudMaker has resulted in numerous outputs documented [here](http://cheapjack.github.io/EverythingMinecraft.html) on Ross Dalziel's AKA @cheapjack website and resulting in a range of spun out repos and research projects that use 
 
 We are currently packaging up CloudMaker and all its 'deployable' outputs alongside [Dr Mark Wright](https://twitter.com/dr_mark_wright) writing up of a paper on the project. 
