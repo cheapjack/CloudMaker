@@ -20,6 +20,26 @@ CloudMaker and [The Minecraft Of Things](http://minecraftofthings.tumblr.com) sp
 
 Find out more in the [project video here](https://vimeo.com/92258008)
 
+###Research Outputs and Spin-Outs
+
+CloudMaker has resulted in numerous outputs documented [here](http://cheapjack.github.io/EverythingMinecraft.html) on Ross Dalziel's AKA @cheapjack website and resulting in a range of spun out repos and research projects that use 
+
+We are currently packaging up CloudMaker and all its 'deployable' outputs alongside [Dr Mark Wright](https://twitter.com/dr_mark_wright) writing up of a paper on the project. 
+This will lead to releasing some open-source hardware and software into the Minecraft Education Community
+
+ * RF-Craft - Repo to Follow 
+  * Open hardware (mostly) Radio messaging system using the unlicensed frequency 868MHz designed by technician in residence at [DoESLiverpool](http://doesliverpool.com) [DefProc](http://www.deferredprocrastination.co.uk/) RF-Craft is a prototype Raspberry Pi [HAT](https://github.com/raspberrypi/hats) (Hardware Attached on Top) and arduino clone to send `mcpi` API  commands to a minecraft server and especially the [CloudMaker](https://github.com/cheapjack/CloudMaker) server
+ * [StasisCraft](https://github.com/cheapjack/StasisCraft)
+  * CloudMaker resources for Teaching and Engaging with KS4 HomeoStasis through Minecraft & Python
+ * [MemoryCraft](https://github.com/cheapjack/MemoryCraft)
+  * Exploring Memory through the Internet Of Things and MineCraft
+ * [ShrimpCraft](https://github.com/cheapjack/ShrimpCraft)
+  * Prototype Minecraft/Shrimping.It/Python sensor kits
+ * [Minecraft Of Things](https://github.com/cheapjack/MoT)
+  * Resources for Exploring The Internet of Things (IoT) with Minecraft 
+ 
+
+
 ###Wiki
 
 Read the [CloudMakerWiki](https://github.com/cheapjack/CloudMaker/wiki) here
