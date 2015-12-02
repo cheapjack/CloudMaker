@@ -24,10 +24,11 @@ Find out more in the [project video here](https://vimeo.com/92258008)
 
 ![rfcraftpi](https://cloud.githubusercontent.com/assets/128456/11501525/b5ac718a-982c-11e5-957e-e393b6b7c2ae.png)
 
-CloudMaker has resulted in numerous outputs documented [here](http://cheapjack.github.io/EverythingMinecraft.html) on Ross Dalziel's AKA @cheapjack website and resulting in a range of spun out repos and research projects that use 
+CloudMaker has resulted in numerous outputs documented [here](http://cheapjack.github.io/EverythingMinecraft.html) on Ross Dalziel's AKA @cheapjack website and resulting in a range of spun out repos and research projects that use the CloudMaker server and build and extend the ITaaU research.
 
-We are currently packaging up CloudMaker and all its 'deployable' outputs alongside [Dr Mark Wright](https://twitter.com/dr_mark_wright) writing up of a paper on the project. 
-This will lead to releasing some open-source hardware and software into the Minecraft Education Community
+We are currently packaging up CloudMaker and all its 'deployable' outputs alongside [Dr Mark Wright](https://twitter.com/dr_mark_wright) writing up a paper on the project.
+
+This will lead to releasing some open-source hardware and software into the Minecraft Education Community and wider Educator landscape.
 
  * RF-Craft - Repo to Follow 
   * Open hardware (mostly) Radio messaging system using the unlicensed frequency 868MHz designed by technician in residence at [DoESLiverpool](http://doesliverpool.com) [DefProc](http://www.deferredprocrastination.co.uk/) RF-Craft is a prototype Raspberry Pi [HAT](https://github.com/raspberrypi/hats) (Hardware Attached on Top) and arduino clone to send `mcpi` API  commands to a minecraft server and especially the [CloudMaker](https://github.com/cheapjack/CloudMaker) server
