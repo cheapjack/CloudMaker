@@ -1,6 +1,6 @@
 # CloudMaker
 ## FACT minecraft bukkit server for the Minecraft of Things: Teaching and Engaging with IoT through game culture frameworks
-For Minecraft PC client version `1.7.9` running `Bukkit-1.7.2`
+For Minecraft PC client version `1.7.9` 
 
 ![CloudMaker](https://github.com/cheapjack/cheapjack.github.io/blob/master/tumblr_files/Cloudmaker.png)
 
@@ -47,15 +47,24 @@ This will lead to releasing some open-source hardware and software into the Mine
 
 Read the [CloudMakerWiki](https://github.com/cheapjack/CloudMaker/wiki) here
 
-###Plugins
+###Plugins & Features
 
 You need Builder or Admin permissions to use most of the tools like WorldEdit etc. and generally you only get this if you're part of a FACT project at the moment. Leave messages on signs for `Ops` if you want to do something in particular and want to use CloudMaker to do it or raise an issue on github.
 
+ * `mcpi` is an API for Minecraft Pi Edition, released under an MIT License and is maintained by Martin O'Hanlon's [Stuff About Code](http://www.stuffaboutcode.com/p/minecraft.html) project.
+ * RaspberryJuice 1.3.2 enables the use of the `mcpi` API with an additional `server.py` moduleincluded.
  * Dynmap  [View the map](http://mc.fact.co.uk:8124)
  * Essentials [wiki](wiki.mc-ess.net)
  * WorldEdit
  * Multi-Verse [wiki](https://github.com/Multiverse/Multiverse-Core/wiki/basics)
  * Printcraft [Bukkit Plugin Page](http://dev.bukkit.org/bukkit-plugins/printbot/)
  * ScriptCraft [wiki](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md)
- * CanaryMod
 
+###Is This Open Source?
+
+The project is essentially about data, code and hardware literacy in the context of social design and gaming. It's released under a permissive MIT License but not necessarily recursively; some elements are released under certain different terms and you will need follow back to source to see this.
+
+CloudMaker follows the `spirit` of open source although some elements used may not **strictly** be `open-source`: 
+
+ * Minecraft is not open source but has a large and healthy modding culture. In many ways this culture IS the game. You have to buy the game basically to play on servers. This project however is based on the use of [Minecraft Pi Edition](http://pi.minecraft.net/?page_id=14) which is free to download and use and initiated by Mojang but maintained by the Minecraft and [Raspberry Pi](http://elinux.org/RPi_Hub) community
+ * `mcpi` is released under an MIT License and is maintained by Martin O'Hanlon's [Stuff About Code](http://www.stuffaboutcode.com/p/minecraft.html) project. 
