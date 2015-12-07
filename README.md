@@ -42,7 +42,8 @@ This will lead to releasing some open-source hardware and software into the Mine
   * Prototype Minecraft/Shrimping.It/Python sensor kits
  * [Minecraft Of Things](https://github.com/cheapjack/MoT)
   * Resources for Exploring The Internet of Things (IoT) with Minecraft 
- 
+ * MindCraft
+  * Resources for connecting Minecraft with EEG headset raw data, using the NeuroSky Mindwave Mobile Headset 
 
 
 ###Wiki
