@@ -32,14 +32,16 @@ We are currently packaging up CloudMaker and all its 'deployable' outputs alongs
 
 This will lead to releasing some open-source hardware and software into the Minecraft Education Community and wider Educator landscape.
 
- * RF-Craft - Repo to Follow 
+ * RF-Craft - Repo to follow 
   * Open hardware (mostly) Radio messaging system using the unlicensed frequency 868MHz designed by technician in residence at [DoESLiverpool](http://doesliverpool.com) [DefProc](http://www.deferredprocrastination.co.uk/) RF-Craft is a prototype Raspberry Pi [HAT](https://github.com/raspberrypi/hats) (Hardware Attached on Top) and arduino clone to send `mcpi` API  commands to a minecraft server and especially the [CloudMaker](https://github.com/cheapjack/CloudMaker) server
+ * Button-craft - Repo to follow
+  * Open Hardware arduino buttons with onboard sensor inputs to make things happer wirelessly or wired on a minecraft server
  * [StasisCraft](https://github.com/cheapjack/StasisCraft)
   * CloudMaker resources for Teaching and Engaging with KS4 HomeoStasis through Minecraft & Python
  * [MemoryCraft](https://github.com/cheapjack/MemoryCraft)
   * Exploring Memory through the Internet Of Things and MineCraft
  * [ShrimpCraft](https://github.com/cheapjack/ShrimpCraft)
-  * Prototype Minecraft/Shrimping.It/Python sensor kits
+  * Breadboard based Minecraft/Shrimping.It/Python sensor kits for the Internet of Things
  * [Minecraft Of Things](https://github.com/cheapjack/MoT)
   * Resources for Exploring The Internet of Things (IoT) with Minecraft 
  * MindCraft
