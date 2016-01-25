@@ -65,6 +65,17 @@ You need Builder or Admin permissions to use most of the tools like WorldEdit et
  * Printcraft [Bukkit Plugin Page](http://dev.bukkit.org/bukkit-plugins/printbot/)
  * ScriptCraft [wiki](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md)
 
+### Staying Safe
+
+<img src="https://www.nspcc.org.uk/globalassets/for-go-live-images/o2-partnership/minecraft-cta-v4.png?width=400&mode=crop&anchor=middlecenter" width="400">
+
+The NSPCC have this great [online guide](https://www.nspcc.org.uk/preventing-abuse/keeping-children-safe/online-safety/minecraft-a-parents-guide) for parents and carers and players if you have any concerns about online safety.
+
+The internal WhitCraft server is white-listed while the public one is not, but all server logs are recorded. If you have any concerns please contact Steven Roper at the Whitworth Art Gallery or any staff member.
+
+We cannot accept any liabilty for what may happen on these servers but will endeavour to block any inappropriate behaviour where possible and can ban players where necessary.
+
+
 ###Is This Open Source?
 
 The project is essentially about data, code and hardware literacy in the context of social design and gaming. It's released under a permissive MIT License but not necessarily recursively; some elements are released under certain different terms and you will need follow back to source to see this.
