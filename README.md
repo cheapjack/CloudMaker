@@ -1,6 +1,6 @@
 # CloudMaker
 
-## [FACT](http://fact.co.uk) minecraft server for Teaching and Engagement through social design and game culture frameworks
+## [FACT](http://fact.co.uk) minecraft server and resources for Teaching and Engagement through social design and game culture frameworks
 
 For Minecraft PC client version `1.7.9` 
 
@@ -15,6 +15,8 @@ On spawn you will be part of the `Default` user group outside a map of [FACT](ht
 
 Enter lifts to teleport to other floors (be careful not to walk back into them by mistake reversing out helps), get a drink in the bar and enter the gallery spaces to jump to other worlds.
 You can look at the [server `dynmap` here](http://mc.fact.co.uk:8124)
+
+Features the bukkit [Raspberry Juice](https://github.com/martinohanlon/CanaryRaspberryJuice) plugin that lets you send python commands using the [Minecraft: Pi Edition](http://pi.minecraft.net/) `mcpi` API described [here](https://github.com/martinohanlon/Minecraft-Pi-API)  plus Walter Higgins' [ScriptCraft](https://github.com/walterhiggins/ScriptCraft)
 
 ###Background
 
@@ -46,7 +48,8 @@ This will lead to releasing some open-source hardware and software into the Mine
   * Resources for Exploring The Internet of Things (IoT) with Minecraft 
  * MindCraft
   * Resources for connecting Minecraft with EEG headset raw data, using the NeuroSky Mindwave Mobile Headset 
-
+ * [Minecraft-Solar-Explorations](https://github.com/radames/Minecraft-Solar-Explorations)
+  * Resources for exploring scale with a custom CanaryMod server made by [@cheapjack](https://twitter.com/cheapjack) & [@radamar](https://twitter.com/cheapjack)
 
 ###Wiki
 
