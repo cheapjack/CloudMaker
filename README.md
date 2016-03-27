@@ -8,7 +8,7 @@ For Minecraft PC client version `1.7.9`
 
 ###Quickstart
 
-We've made a minecraft server for version `1.7.9` that you can send python commands to, build, explore and play with ScriptCraft.
+We've made a minecraft server for version `1.7.9` that you can send python commands to, build, explore and play with Minecraft. It's also got a version of [ScriptCraft](http://scriptcraftjs.org/) setup.
 
 Alternatively you can run your own server with CanaryMod and Canary Raspberry Juice Plugin. You could use the server we made with [@radamar](https://twitter.com/@radamar) [here](https://github.com/radames/Minecraft-Solar-Explorations/tree/atomic)
 
