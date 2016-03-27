@@ -8,13 +8,24 @@ For Minecraft PC client version `1.7.9`
 
 ###Quickstart
 
+We've made a minecraft server for version `1.7.9` that you can send python commands to, build, explore and play with ScriptCraft.
+
+Alternatively you can run your own server with CanaryMod and Canary Raspberry Juice Plugin. You could use the server we made with [@radamar](https://twitter.com/@radamar) [here](https://github.com/radames/Minecraft-Solar-Explorations/tree/atomic)
+
+And you can always run the game on [Raspberry Pi](http://pi.minecraft.net/) and follow the guides [here](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/)
+
+#### Using the FACT CloudMaker server
+
 Go to `Add Server` and enter a name for the server like `CloudMaker` the address `mc.fact.co.uk:25568`
 **Make sure you are running client in version `1.7.9`**
 
 On spawn you will be part of the `Default` user group outside a map of [FACT](http://fact.co.uk/). You can build pretty much anything in Creative mode as you explore the worlds via the FACT gallery entrances but PVP, lava fire, TNT ignition are banned I'm afraid. You cannot build or destroy blocks in the building but outside and in other un-protected areas build what you want. `World` is the main experimental world where all the Raspberry Juice magic happens and you can get there through the gallery 1 opening on the left..
 
 Enter lifts to teleport to other floors (be careful not to walk back into them by mistake reversing out helps), get a drink in the bar and enter the gallery spaces to jump to other worlds.
+
 You can look at the [server `dynmap` here](http://mc.fact.co.uk:8124)
+
+You can use the `/warp` command to explore areas of the server and list all available warps with `/listwarps`.
 
 Features the bukkit [Raspberry Juice](https://github.com/martinohanlon/CanaryRaspberryJuice) plugin that lets you send python commands using the [Minecraft: Pi Edition](http://pi.minecraft.net/) `mcpi` API described [here](https://github.com/martinohanlon/Minecraft-Pi-API)  plus Walter Higgins' [ScriptCraft](https://github.com/walterhiggins/ScriptCraft)
 
@@ -28,24 +39,20 @@ Find out more in the [project video here](https://vimeo.com/92258008)
 
 ![rfcraftpi](https://cloud.githubusercontent.com/assets/128456/11501525/b5ac718a-982c-11e5-957e-e393b6b7c2ae.png)
 
-CloudMaker has resulted in numerous outputs documented [here](http://cheapjack.github.io/EverythingMinecraft.html) on Ross Dalziel's AKA @cheapjack website and resulting in a range of spun out repos and research projects that use the CloudMaker server and build and extend the ITaaU research.
-
-We are currently packaging up CloudMaker and all its 'deployable' outputs alongside [Dr Mark Wright](https://twitter.com/dr_mark_wright) writing up a paper on the project.
-
-This will lead to releasing some open-source hardware and software into the Minecraft Education Community and wider Educator landscape.
+CloudMaker has resulted in numerous outputs documented [here](https://github.com/cheapjack/CloudMaker/blob/master/EverythingMinecraft.md) resulting in a range of research projects that use the CloudMaker server and build and extend the ITaaU research.
 
  * RF-Craft - Repo to follow 
-  * Open hardware (mostly) Radio messaging system using the unlicensed frequency 868MHz designed by technician in residence at [DoESLiverpool](http://doesliverpool.com) [DefProc](http://www.deferredprocrastination.co.uk/) RF-Craft is a prototype Raspberry Pi [HAT](https://github.com/raspberrypi/hats) (Hardware Attached on Top) and arduino clone to send `mcpi` API  commands to a minecraft server and especially the [CloudMaker](https://github.com/cheapjack/CloudMaker) server
- * Button-craft - Repo to follow
-  * Open Hardware arduino buttons with onboard sensor inputs to make things happer wirelessly or wired on a minecraft server
+  * Open source Radio messaging system using the [RFM69HW tranceiver chip](https://lowpowerlab.com/shop/rfm69hw) and the radio frequency 868MHz designed by technician in residence at [DoESLiverpool](http://doesliverpool.com) [DefProc](http://www.deferredprocrastination.co.uk/) RF-Craft is a prototype Raspberry Pi [HAT](https://github.com/raspberrypi/hats) (Hardware Attached on Top) and arduino clone to send `mcpi` API  commands to a minecraft server. It features an onboard button and light, digital input for a Dallas DS18B20 one-wire temperature sensor and 5 analog inputs. It can act as a powered HAT or an arduino radio receiver or transmitter.
  * [StasisCraft](https://github.com/cheapjack/StasisCraft)
   * CloudMaker resources for Teaching and Engaging with KS4 HomeoStasis through Minecraft & Python
  * [MemoryCraft](https://github.com/cheapjack/MemoryCraft)
-  * Exploring Memory through the Internet Of Things and MineCraft
+  * Exploring Memory through the Internet Of Things, scale maps and MineCraft
  * [ShrimpCraft](https://github.com/cheapjack/ShrimpCraft)
   * Breadboard based Minecraft/Shrimping.It/Python sensor kits for the Internet of Things
  * [Minecraft Of Things](https://github.com/cheapjack/MoT)
   * Resources for Exploring The Internet of Things (IoT) with Minecraft 
+ * [cocklecraft-of-things](https://github.com/mcqn/cocklecraft-of-things)
+  * A breadboard temperature sensor with WiFi using the [Sparkfun ESP8266 Thing](https://www.sparkfun.com/products/13231) for pushing temperature data to the cloud using [ThingSpeak](https://thingspeak.com/). Also features a a pop up [Flask](http://flask.pocoo.org/) server to post data locally.   
  * MindCraft
   * Resources for connecting Minecraft with EEG headset raw data, using the NeuroSky Mindwave Mobile Headset 
  * [Minecraft-Solar-Explorations](https://github.com/radames/Minecraft-Solar-Explorations)
@@ -86,4 +93,15 @@ The project is essentially about data, code and hardware literacy in the context
 CloudMaker follows the `spirit` of open source although some elements used may not **strictly** be `open-source`: 
 
  * Minecraft is not open source but has a large and healthy modding culture. In many ways this culture IS the game. You have to buy the game basically to play on servers. This project however is based on the use of [Minecraft Pi Edition](http://pi.minecraft.net/?page_id=14) which is free to download and use and initiated by Mojang but maintained by the Minecraft and [Raspberry Pi](http://elinux.org/RPi_Hub) community
- * `mcpi` is released under an MIT License and is maintained by Martin O'Hanlon's [Stuff About Code](http://www.stuffaboutcode.com/p/minecraft.html) project. 
+ * `mcpi` is released under an MIT License and is maintained by Martin O'Hanlon's [Stuff About Code](http://www.stuffaboutcode.com/p/minecraft.html) project.
+
+### Is Minecraft a learning platform
+
+Using Minecraft to learn is an exciting area but after a year of research and activity we believe it's not a platform. A platform implies stability and comprehensiveness and minecraft and the components you can use to play with it is a constantly changing beast.
+
+What we've tried to do is to make a curated portal into the world of learning  with minecraft, pointing at the great work being done in the community. We have tried to show a diverse approach and share what we've learnt.
+
+One thing I think is essential is people; you need people to learn: you dont just learn after downloading the game, it takes the performance of a teacher or student or player to make the imaginitive stuff happen.
+
+What we've tried to do is make some resources for exploring the Internet of Things and some hardware designs that could help. We believe experimenting with the game is like a gateway to the sort of skills and literacy needed to work and use IoT.
+ 
