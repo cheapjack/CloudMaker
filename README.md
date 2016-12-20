@@ -12,11 +12,12 @@ We've made a minecraft server for version `1.7.9` that you can send python comma
 
 Alternatively you can run your own server with CanaryMod and Canary Raspberry Juice Plugin. You could use the server we made with [@radamar](https://twitter.com/@radamar) [here](https://github.com/radames/Minecraft-Solar-Explorations/tree/atomic)
 
-And you can always run the game on [Raspberry Pi](http://pi.minecraft.net/) and follow the guides [here](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/)
+And you can also run the game and code locally on [Raspberry Pi](http://pi.minecraft.net/) and follow the guides [here](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/)
 
 #### Using the FACT CloudMaker server
 
 Go to `Add Server` and enter a name for the server like `CloudMaker` the address `mc.fact.co.uk:25568`
+
 **Make sure you are running client in version `1.7.9`**
 
 On spawn you will be part of the `Default` user group outside a map of [FACT](http://fact.co.uk/). You can build pretty much anything in Creative mode as you explore the worlds via the FACT gallery entrances but PVP, lava fire, TNT ignition are banned I'm afraid. You cannot build or destroy blocks in the building but outside and in other un-protected areas build what you want. `World` is the main experimental world where all the Raspberry Juice magic happens and you can get there through the gallery 1 opening on the left..
@@ -29,19 +30,19 @@ You can use the `/warp` command to explore areas of the server and list all avai
 
 Features the bukkit [Raspberry Juice](https://github.com/martinohanlon/CanaryRaspberryJuice) plugin that lets you send python commands using the [Minecraft: Pi Edition](http://pi.minecraft.net/) `mcpi` API described [here](https://github.com/martinohanlon/Minecraft-Pi-API)  plus Walter Higgins' [ScriptCraft](https://github.com/walterhiggins/ScriptCraft)
 
-###Background
+### Background
 
 CloudMaker and [The Minecraft Of Things](http://minecraftofthings.tumblr.com) sprang from research with [FACT](http://fact.co.uk/), [Dr Mark Wright](https://twitter.com/dr_mark_wright), [Adrian McEwen](http://www.mcqn.com/) and Paul Harter of [PrintCraft](http://www.printcraft.org/) funded by [IT as a Utility (ITaaU) Network](http://www.itutility.ac.uk) for the [CloudMaker](http://www.fact.co.uk/projects/cloudmaker-making-minecraft-real.aspx) project
 
 Find out more in the [project video here](https://vimeo.com/92258008)
 
-###Research Outputs and Spin-Outs
+## Research Outputs and Spin-Outs
 
 ![rfcraftpi](https://cloud.githubusercontent.com/assets/128456/11501525/b5ac718a-982c-11e5-957e-e393b6b7c2ae.png)
 
 CloudMaker has resulted in numerous outputs documented [here](https://github.com/cheapjack/CloudMaker/blob/master/EverythingMinecraft.md) resulting in a range of research projects that use the CloudMaker server and build and extend the ITaaU research.
 
- * RF-Craft - Repo to follow 
+ * [RF-Craft](https://github.com/cheapjack/RF-Craft)
   * Open source Radio messaging system using the [RFM69HW tranceiver chip](https://lowpowerlab.com/shop/rfm69hw) and the radio frequency 868MHz designed by technician in residence at [DoESLiverpool](http://doesliverpool.com) [DefProc](http://www.deferredprocrastination.co.uk/) RF-Craft is a prototype Raspberry Pi [HAT](https://github.com/raspberrypi/hats) (Hardware Attached on Top) and arduino clone to send `mcpi` API  commands to a minecraft server. It features an onboard button and light, digital input for a Dallas DS18B20 one-wire temperature sensor and 5 analog inputs. It can act as a powered HAT or an arduino radio receiver or transmitter.
  * [StasisCraft](https://github.com/cheapjack/StasisCraft)
   * CloudMaker resources for Teaching and Engaging with KS4 HomeoStasis through Minecraft & Python
@@ -53,8 +54,8 @@ CloudMaker has resulted in numerous outputs documented [here](https://github.com
   * Resources for Exploring The Internet of Things (IoT) with Minecraft 
  * [cocklecraft-of-things](https://github.com/mcqn/cocklecraft-of-things)
   * A breadboard temperature sensor with WiFi using the [Sparkfun ESP8266 Thing](https://www.sparkfun.com/products/13231) for pushing temperature data to the cloud using [ThingSpeak](https://thingspeak.com/). Also features a a pop up [Flask](http://flask.pocoo.org/) server to post data locally.   
- * MindCraft
-  * Resources for connecting Minecraft with EEG headset raw data, using the NeuroSky Mindwave Mobile Headset 
+ * [MindCraft](https://github.com/cheapjack/MindCraft)
+  * [Gemma May Latham's](http://gemmamaylatham.co.uk/) Resources for connecting Minecraft with EEG headset raw data, using the NeuroSky Mindwave Mobile Headset 
  * [Minecraft-Solar-Explorations](https://github.com/radames/Minecraft-Solar-Explorations)
   * Resources for exploring scale with a custom CanaryMod server made by [@cheapjack](https://twitter.com/cheapjack) & [@radamar](https://twitter.com/cheapjack)
 
