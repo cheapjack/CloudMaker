@@ -40,7 +40,7 @@ Find out more in the [project video here](https://vimeo.com/92258008)
 
 ![rfcraftpi](https://cloud.githubusercontent.com/assets/128456/11501525/b5ac718a-982c-11e5-957e-e393b6b7c2ae.png)
 
-CloudMaker has resulted in numerous outputs documented [here](https://github.com/cheapjack/CloudMaker/blob/master/EverythingMinecraft.md) resulting in a range of research projects that use the CloudMaker server and build and extend the ITaaU research.
+CloudMaker has resulted in numerous outputs documented [here](http://cheapjack.github.io/EverythingMinecraft) resulting in a range of research projects that use the CloudMaker server and build and extend the ITaaU research.
 
  * [RF-Craft](https://github.com/cheapjack/RF-Craft)
   * Open source Radio messaging system using the [RFM69HW tranceiver chip](https://lowpowerlab.com/shop/rfm69hw) and the radio frequency 868MHz designed by technician in residence at [DoESLiverpool](http://doesliverpool.com) [DefProc](http://www.deferredprocrastination.co.uk/) RF-Craft is a prototype Raspberry Pi [HAT](https://github.com/raspberrypi/hats) (Hardware Attached on Top) and arduino clone to send `mcpi` API  commands to a minecraft server. It features an onboard button and light, digital input for a Dallas DS18B20 one-wire temperature sensor and 5 analog inputs. It can act as a powered HAT or an arduino radio receiver or transmitter.
