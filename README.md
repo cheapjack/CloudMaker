@@ -16,7 +16,7 @@ And you can also run the game and code locally on [Raspberry Pi](http://pi.minec
 
 #### Using the FACT CloudMaker server
 
-Go to `Add Server` and enter a name for the server like `CloudMaker` the address `mc.fact.co.uk:25568`
+Go to `Add Server` and enter a name for the server like `CloudMaker` the address `mc.fact.co.uk:25589`
 
 **Make sure you are running client in version `1.7.9`**
 
@@ -24,7 +24,7 @@ On spawn you will be part of the `Default` user group outside a map of [FACT](ht
 
 Enter lifts to teleport to other floors (be careful not to walk back into them by mistake reversing out helps), get a drink in the bar and enter the gallery spaces to jump to other worlds.
 
-You can look at the [server `dynmap` here](http://mc.fact.co.uk:8124)
+You can look at the [server `dynmap` here](http://89.34.96.47:8125/)
 
 You can use the `/warp` command to explore areas of the server and list all available warps with `/listwarps`.
 
