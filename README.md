@@ -6,7 +6,7 @@ For Minecraft PC client version `1.7.9`
 
 ![CloudMaker](https://github.com/cheapjack/cheapjack.github.io/blob/master/tumblr_files/Cloudmaker.png)
 
-###Quickstart
+### Quickstart
 
 We've made a minecraft server for version `1.7.9` that you can send python commands to, build, explore and play with Minecraft. It's also got a version of [ScriptCraft](http://scriptcraftjs.org/) setup.
 
@@ -55,15 +55,15 @@ CloudMaker has resulted in numerous outputs documented [here](http://cheapjack.g
  * [cocklecraft-of-things](https://github.com/mcqn/cocklecraft-of-things)
   * A breadboard temperature sensor with WiFi using the [Sparkfun ESP8266 Thing](https://www.sparkfun.com/products/13231) for pushing temperature data to the cloud using [ThingSpeak](https://thingspeak.com/). Also features a a pop up [Flask](http://flask.pocoo.org/) server to post data locally.   
  * [MindCraft](https://github.com/cheapjack/MindCraft)
-  * [Gemma May Latham's](http://gemmamaylatham.co.uk/) Resources for connecting Minecraft with EEG headset raw data, using the NeuroSky Mindwave Mobile Headset 
+   * [Gemma May Latham's](http://gemmamaylatham.co.uk/) Resources for connecting Minecraft with EEG headset raw data, using the NeuroSky Mindwave Mobile Headset 
  * [Minecraft-Solar-Explorations](https://github.com/radames/Minecraft-Solar-Explorations)
   * Resources for exploring scale with a custom CanaryMod server made by [@cheapjack](https://twitter.com/cheapjack) & [@radamar](https://twitter.com/cheapjack)
 
-###Wiki
+### Wiki
 
 Read the [CloudMakerWiki](https://github.com/cheapjack/CloudMaker/wiki) here
 
-###Plugins & Features
+### Plugins & Features
 
 You need Builder or Admin permissions to use most of the tools like WorldEdit etc. and generally you only get this if you're part of a FACT project at the moment. Leave messages on signs for `Ops` if you want to do something in particular and want to use CloudMaker to do it or raise an issue on github.
 
@@ -78,7 +78,7 @@ You need Builder or Admin permissions to use most of the tools like WorldEdit et
 
 ### Staying Safe
 
-<img src="https://www.nspcc.org.uk/globalassets/for-go-live-images/o2-partnership/minecraft-cta-v4.png?width=400&mode=crop&anchor=middlecenter" width="400">
+<img src="https://www.nspcc.org.uk/globalassets/blocks/about-us/our-partners/o2/o2-partnership/minecraft-cta-v4.png?width=400&mode=crop&anchor=middlecenter" width="400">
 
 The NSPCC have this great [online guide](https://www.nspcc.org.uk/preventing-abuse/keeping-children-safe/online-safety/minecraft-a-parents-guide) for parents and carers and players if you have any concerns about online safety.
 
@@ -87,7 +87,7 @@ The internal WhitCraft server is white-listed while the public one is not, but a
 We cannot accept any liabilty for what may happen on these servers but will endeavour to block any inappropriate behaviour where possible and can ban players where necessary.
 
 
-###Is This Open Source?
+### Is This Open Source?
 
 The project is essentially about data, code and hardware literacy in the context of social design and gaming. It's released under a permissive MIT License but not necessarily recursively; some elements are released under certain different terms and you will need follow back to source to see this.
 
@@ -96,7 +96,7 @@ CloudMaker follows the `spirit` of open source although some elements used may n
  * Minecraft is not open source but has a large and healthy modding culture. In many ways this culture IS the game. You have to buy the game basically to play on servers. This project however is based on the use of [Minecraft Pi Edition](http://pi.minecraft.net/?page_id=14) which is free to download and use and initiated by Mojang but maintained by the Minecraft and [Raspberry Pi](http://elinux.org/RPi_Hub) community
  * `mcpi` is released under an MIT License and is maintained by Martin O'Hanlon's [Stuff About Code](http://www.stuffaboutcode.com/p/minecraft.html) project.
 
-### Is Minecraft a learning platform
+### Is Minecraft a learning platform?
 
 Using Minecraft to learn is an exciting area but after a year of research and activity we believe it's not a platform. A platform implies stability and comprehensiveness and minecraft and the components you can use to play with it is a constantly changing beast.
 
