@@ -6,6 +6,10 @@ For Minecraft PC client version `1.7.9`
 
 ![CloudMaker](https://github.com/cheapjack/cheapjack.github.io/blob/master/tumblr_files/Cloudmaker.png)
 
+Here is a list of [Everything Minecraft](http://cheapjack.github.io/EverythingMinecraft)
+
+You can look at the [server `dynmap` here](http://89.34.96.47:8125/)
+
 ### Quickstart
 
 We've made a minecraft server for version `1.7.9` that you can send python commands to, build, explore and play with Minecraft. It's also got a version of [ScriptCraft](http://scriptcraftjs.org/) setup.
